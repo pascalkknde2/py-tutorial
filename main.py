@@ -14,7 +14,7 @@ def get_hint(diff):
         return "❄️ Very far."
 
 def play_game():
-    print("\n=== NUMBER GUESSING GAME ===")
+    print("\n=== NUMBER GUESSING GAME Perfect ===")
     print("Select difficulty:")
     print("1. Easy   (1–10, 7 attempts)")
     print("2. Medium (1–20, 5 attempts)")
